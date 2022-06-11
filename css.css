@@ -38,7 +38,7 @@
 
 .navbara {
   width: 100%;
-  background-color: #555;
+  background-color: #2B415E;
   overflow: auto;
   position: fixed;
 }
@@ -57,11 +57,11 @@
 
 
 .navbara a:hover {
-  background-color: #00B4E0;
+  background-color: #A9C0DE;
 }
 
 .navbara a.active {
-  background-color: #04AA6D;
+  background-color: #A9C0DE;
 }
 
 
@@ -78,7 +78,7 @@
 .logo1 {
   font-size: xx-large;
   font-weight: bold;
-  background-color: rgb(153, 114, 31);
+  background-color: #A9C0DE;
   height: 40px;
 }
 
@@ -92,7 +92,7 @@
 
 body {
   margin: 0;
-  background-color: #4272F5;
+  background-color: #699EE3;
 }
 
 .rozdzial {
@@ -239,7 +239,7 @@ footer {
   float: right;
   width: 20%;
   height: 100vw;
-  background-color: rgb(153, 114, 31);
+  background-color: #8294AB;
 }
 
 footer {

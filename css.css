@@ -107,11 +107,12 @@ body {
 }
 
 .tresc {
-  font-size: 28px;
-
-  margin-right: 5%;
+  font-size: 28px;text-align: center;
 }
-
+ul { display: inline-block; text-align: center; }
+  .tabelka {
+    font-size: 18px;
+  }
 .tabelka {
   font-size: x-large;
   font-style: italic;

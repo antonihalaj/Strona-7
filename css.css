@@ -107,12 +107,7 @@ body {
 }
 
 .tresc {
-  font-size: 28px;text-align: center;
-}
-ul { display: inline-block; text-align: center; }
-  .tabelka {
-    font-size: 18px;
-  }
+  font-size: 28px;}
 .tabelka {
   font-size: x-large;
   font-style: italic;
@@ -193,7 +188,11 @@ footer {
   }
 
   .tresc {
-    font-size: 17px;
+    font-size: 17px;text-align: center;
+}
+ul { display: inline-block; text-align: center; }
+  .tabelka {
+    font-size: 18px;
   }
 
   .tabelka {

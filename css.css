@@ -232,7 +232,7 @@ ul { display: inline-block; text-align: center; }
 
 .wszystko {
   float: left;
-  width: 80%;
+  width: 80%;padding:10px;
 }
 
 .menu2 {
